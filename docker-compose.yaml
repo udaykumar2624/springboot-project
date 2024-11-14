@@ -1,0 +1,5 @@
+servicse:
+  image: "patil2624/spring_boot:v1"
+  ports: 
+    - 9090:9090
+
